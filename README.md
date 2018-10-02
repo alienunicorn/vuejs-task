@@ -68,27 +68,3 @@ This button will open a modal that should have two input fields: select menu tha
 ## Design files:
 [![Codetribe](https://codetri.be/final1.png)](https://codetri.be/final1.png)
 [![Codetribe](https://codetri.be/final2.png)](https://codetri.be/final2.png)
-
-# frontend-voja
-
-< ----------------------- VUE README ----------------------->
-
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
